@@ -1,6 +1,6 @@
 Seth
 
-🚀 Full-Stack Developer | Laravel | React | Java | MySQL  
+🚀 Full-Stack Developer | React | Next | | Laravel | Springboot | Express
 💻 Web Applications | APIs | System Design  
 🇰🇭 Cambodia  
 
