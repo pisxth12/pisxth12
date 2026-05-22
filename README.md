@@ -19,21 +19,16 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 📊 GitHub Stats Radar
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pisxth12&theme=radical" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pisxth12&theme=radical" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pisxth12&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pisxth12&theme=radical" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pisxth12&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pisxth12&theme=radical" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pisxth12&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pisxth12&theme=radical&utcOffset=7" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pisxth12&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pisxth12&theme=radical&utcOffset=7" />
-</p>
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
