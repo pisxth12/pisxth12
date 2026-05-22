@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-<div align="center">
+<div >
   
 ### 🚀 Full-Stack Developer
   
@@ -8,7 +8,7 @@
 
 <br />
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex;  gap: 20px; flex-wrap: wrap;">
   <sub>🔭 Working on cool projects</sub>
   <sub>🌱 Learning Cloud & System Design</sub>
   <sub>📫 seth.dev.1100@gmail.com</sub>
