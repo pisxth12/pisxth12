@@ -19,6 +19,10 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pisxth12&theme=radical" />
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
