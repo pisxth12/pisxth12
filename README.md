@@ -1,13 +1,18 @@
-# 💫 About Me:
 
-## 👋 About Me
+</div>
 
-Full-Stack Developer who loves building web apps and solving problems.
-
-- 🔭 Working on cool projects
-- 🌱 Learning Cloud & System Design
-- 📫 Reach me: seth.dev.1100@gmail.com
-
+```mermaid
+mindmap
+  root((Piseth))
+    🎯 Focus
+      Cool Projects
+      Cloud Computing
+      System Design
+    💡 Passion
+      Web Apps
+      Problem Solving
+    📫 Contact
+      seth.dev.1100@gmail.com
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piseth-sorn-758385389) 
