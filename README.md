@@ -1,10 +1,20 @@
 ## 👋 About Me
 
-<sub>Full-Stack Developer who loves building web apps and solving problems.</sub>
+<div align="center">
+  
+### 🚀 Full-Stack Developer
+  
+<sub>Building web apps & solving problems</sub>
 
-<sub>- 🔭 Working on cool projects</sub>
-<sub>- 🌱 Learning Cloud & System Design</sub>
-<sub>- 📫 Reach me: seth.dev.1100@gmail.com</sub>
+<br />
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <sub>🔭 Working on cool projects</sub>
+  <sub>🌱 Learning Cloud & System Design</sub>
+  <sub>📫 seth.dev.1100@gmail.com</sub>
+</div>
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piseth-sorn-758385389) 
