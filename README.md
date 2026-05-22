@@ -1,6 +1,10 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Full-Stack Developer who loves building web apps and solving problems.<br><br>- 🔭 Working on cool projects<br>- 🌱 Learning Cloud & System Design<br>- 📫 Reach me: seth.dev.1100@gmail.com
+## 👋 About Me
 
+<sub>Full-Stack Developer who loves building web apps and solving problems.</sub>
+
+<sub>- 🔭 Working on cool projects</sub>
+<sub>- 🌱 Learning Cloud & System Design</sub>
+<sub>- 📫 Reach me: seth.dev.1100@gmail.com</sub>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piseth-sorn-758385389) 
@@ -15,13 +19,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CREATING+SEAMLESS+EXPERIENCES;FLUTTER+DEVELOPER+🚀;SUPABASE+EXPERT+🔥;HAPPY+CODING!+🇰🇭" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=120&section=footer" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
