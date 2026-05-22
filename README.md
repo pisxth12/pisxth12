@@ -1,20 +1,22 @@
-## 👋 About Me
+Seth/README.md
 
-<div >
-  
-### 🚀 Full-Stack Developer
-  
-<sub>Building web apps & solving problems</sub>
+Full-Stack Developer | Laravel | React | Java | MySQL
+Web Applications | APIs | System Design
+Cambodia
 
-<br />
+About Me
 
-<div style="display: flex;  gap: 20px; flex-wrap: wrap;">
-  <sub>🔭 Working on cool projects</sub>
-  <sub>🌱 Learning Cloud & System Design</sub>
-  <sub>📫 seth.dev.1100@gmail.com</sub>
-</div>
+Building modern web applications from frontend to backend
 
-</div>
+Developing responsive interfaces and scalable systems
+
+Interested in Cloud Computing and software architecture
+
+Focused on clean code, performance, and problem solving
+
+Continuously learning and improving development skills
+
+Contact: seth.dev.1100@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piseth-sorn-758385389) 
