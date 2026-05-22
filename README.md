@@ -1,23 +1,18 @@
-Seth
+## SORN PISETH
 
-🚀 Full-Stack Developer | React | Next | | Laravel | Springboot | Express
+🚀 Full-Stack Developer | React | Next | Laravel | Spring Boot | Express
 💻 Web Applications | APIs | System Design  
 🇰🇭 Cambodia  
 
 ## 👨‍💻 About Me
 
 🔹 Building modern and scalable web applications  
-
 🔹 Developing frontend interfaces and backend systems  
-
 🔹 Interested in Cloud Computing and System Design  
-
 🔹 Focused on clean code and maintainable architecture  
-
 🔹 Learning new technologies and improving skills continuously  
 
 📫 Contact: seth.dev.1100@gmail.com
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piseth-sorn-758385389) 
