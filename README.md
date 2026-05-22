@@ -14,6 +14,15 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=42A5F5&center=true&vCenter=true&width=600&lines=CREATING+SEAMLESS+EXPERIENCES;FLUTTER+DEVELOPER+🚀;SUPABASE+EXPERT+🔥;HAPPY+CODING!+🇰🇭" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=42A5F5&height=120&section=footer" />
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
