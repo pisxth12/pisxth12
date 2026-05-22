@@ -1,7 +1,4 @@
-SORN PISETH
-
-🚀 Full-Stack Developer | React | Next | Laravel | Spring Boot | Express  
-🇰🇭 Cambodia  
+## 🚀 Full-Stack Developer | React | Next | Laravel | Spring Boot | Express  
 
 ## 👨‍💻 About Me
 
@@ -15,8 +12,14 @@ SORN PISETH
 
 📫 Contact: seth.dev.1100@gmail.com
 
+---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piseth-sorn-758385389) 
+
+
+---
+
 
 # 💻 Tech Stack:
 <p align="left">
@@ -24,6 +27,7 @@ SORN PISETH
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+---
 
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pisxth12&theme=radical" />
