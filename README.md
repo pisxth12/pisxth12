@@ -23,17 +23,34 @@
 
 ---
 
-<div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pisxth12&theme=radical" />
+<div style="width: 100%;">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pisxth12&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pisxth12&theme=radical" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pisxth12&theme=radical" 
+    width="100%"
+  />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pisxth12&theme=radical" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pisxth12&theme=radical&utcOffset=7" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pisxth12&theme=radical" 
+    width="100%"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pisxth12&theme=radical" 
+    width="100%"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pisxth12&theme=radical" 
+    width="100%"
+  />
+
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pisxth12&theme=radical&utcOffset=7" 
+    width="100%"
+  />
 
 </div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
