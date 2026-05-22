@@ -15,9 +15,15 @@
 ---
 
 
-# 💻 Tech Stack:
+### Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,laravel,spring,tailwind,bootstrap,mysql,postgres,mongodb,git,docker,linux,ubuntu,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,laravel,spring,tailwind,bootstrap,mysql,postgres,mongodb,git,docker,ubuntu,digitalocean" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=black" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
