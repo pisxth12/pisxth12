@@ -1,19 +1,20 @@
+## 💎 About Me
 
-</div>
+<div align="center">
+  
+### ✨ Piseth | Full-Stack Developer ✨
 
-```mermaid
-mindmap
-  root((Piseth))
-    🎯 Focus
-      Cool Projects
-      Cloud Computing
-      System Design
-    💡 Passion
-      Web Apps
-      Problem Solving
-    📫 Contact
-      seth.dev.1100@gmail.com
-## 🌐 Socials:
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Piseth"
+        self.role = "Full-Stack Developer"
+        self.passion = "Building web apps & solving problems"
+        self.current = ["🔭 Cool projects", "🌱 Cloud", "📚 System Design"]
+        self.email = "seth.dev.1100@gmail.com"
+    
+    def motto(self):
+        return "Code. Learn. Repeat. 🚀"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piseth-sorn-758385389) 
 
