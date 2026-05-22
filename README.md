@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>Full-Stack Developer who loves building web apps and solving problems.<br><br>- 🔭 Working on cool projects<br>- 🌱 Learning Cloud & System Design<br>- 📫 Reach me: your.email@example.com
+## 👋 About Me<br><br>Full-Stack Developer who loves building web apps and solving problems.<br><br>- 🔭 Working on cool projects<br>- 🌱 Learning Cloud & System Design<br>- 📫 Reach me:  seth.dev.1100@gmail.com
 
 
 ## 🌐 Socials:
