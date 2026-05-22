@@ -19,7 +19,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<div align="center">
+<div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pisxth12&theme=radical" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pisxth12&theme=radical" />
