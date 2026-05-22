@@ -42,10 +42,8 @@ Full-Stack Developer who loves building web apps and solving problems.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pisxth12&theme=github_dark" />
 </div>
 
-## 🐍 Contribution Snake
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pisxth12/pisxth12/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pisxth12/pisxth12/output/snake.svg" />
 </picture>
